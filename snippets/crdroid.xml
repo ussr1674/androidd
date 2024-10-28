@@ -87,5 +87,6 @@
   <project path="vendor/addons" name="crdroidandroid/android_vendor_addons" remote="crdroid" />
   <project path="vendor/lineage" name="crdroidandroid/android_vendor_crdroid" remote="crdroid" />
   <project path="vendor/qcom/opensource/commonsys/fm" name="crdroidandroid/android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" remote="crdroid" />
+  <project path="vendor/qcom/opensource/usb" name="crdroidandroid/android_vendor_qcom_opensource_usb" groups="qcom,lanai-vendor" remote="crdroid" />
 
 </manifest>

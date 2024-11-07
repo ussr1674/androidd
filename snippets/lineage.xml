@@ -172,30 +172,4 @@
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr-legacy-um" name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,lahaina" revision="lineage-22.0-legacy-um" />
   <project path="vendor/qcom/opensource/dataservices" name="LineageOS/android_vendor_qcom_opensource_dataservices" groups="qcom,lanai-vendor" />
   <project path="vendor/qcom/opensource/display" name="LineageOS/android_vendor_qcom_opensource_display" groups="qcom" />
-  <project path="vendor/qcom/opensource/healthd-ext" name="LineageOS/android_vendor_qcom_opensource_healthd-ext" groups="qcom,lanai-vendor" />
-  <project path="vendor/qcom/opensource/interfaces" name="LineageOS/android_vendor_qcom_opensource_interfaces" groups="qcom,qssi" />
-  <project path="vendor/qcom/opensource/libfmjni" name="LineageOS/android_vendor_qcom_opensource_libfmjni" groups="qcom" />
-  <project path="vendor/qcom/opensource/power" name="LineageOS/android_vendor_qcom_opensource_power" groups="qcom,lanai-vendor" />
-  <project path="vendor/qcom/opensource/thermal-engine" name="LineageOS/android_vendor_qcom_opensource_thermal-engine" groups="qcom,lanai-vendor" />
-  <project path="vendor/qcom/opensource/usb" name="LineageOS/android_vendor_qcom_opensource_usb" groups="qcom,lanai-vendor" />
-  <project path="vendor/qcom/opensource/vibrator" name="LineageOS/android_vendor_qcom_opensource_vibrator" groups="qcom,lanai-vendor" />
-
-  <!-- NXP additions -->
-  <!--
-  <project path="vendor/nxp/nfc" name="LineageOS/android_vendor_nxp_nfc" groups="nxp" />
-  <project path="vendor/nxp/secure_element" name="LineageOS/android_vendor_nxp_secure_element" groups="nxp" />
-  <project path="vendor/nxp/secure_element_extns" name="LineageOS/android_vendor_nxp_secure_element_extns" groups="nxp" />
-  -->
-
-  <!-- Infrastructure
-  <project path="lineage/charter" name="LineageOS/charter" groups="infra" revision="main" />
-  <project path="lineage/crowdin" name="LineageOS/cm_crowdin" groups="infra" revision="main" />
-  <project path="lineage/hudson" name="LineageOS/hudson" groups="infra" revision="main" />
-  <project path="lineage/mirror" name="LineageOS/mirror" groups="infra" revision="main" />
-  <project path="lineage/website" name="LineageOS/www" groups="infra" revision="main" />
-  <project path="lineage/wiki" name="LineageOS/lineage_wiki" groups="infra" revision="main" /> -->
-
-  <!-- Tools
-  <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="main" /> -->
-  <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="main" />
-</manifest>
+  <project path="vendor/qcom/opensource/healthd-ext" name="Linea
